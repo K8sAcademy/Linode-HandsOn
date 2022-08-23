@@ -1,6 +1,6 @@
 # Docker and Kubernetes on Linode Hands-On labs
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/BadgeAzure-EN-1.svg" width=200px>
+<img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeLinodeEN.svg" width=200px>
 
 These are the Hands-On lab files for the the **Docker and Kubernetes on Linode** self-paced training course.
 
@@ -126,7 +126,7 @@ https://guybarrette.com @GuyBarrette
 
 <img src="https://kubernetesacademy.online/wp-content/uploads/2021/08/BadgeFundamentalsEN.svg" width=200px style="padding:20px;"><img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeDigitalOceanEN.svg" width=200px style="padding:20px;">
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeLinodeEN.svg" width=200px style="padding:20px;"><img src="https://kubernetesacademy.online/wp-content/uploads/2022/04/BadgeGoogleCloudEN.svg" width=200px style="padding:20px;">
+<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/BadgeAzure-EN-1.svg" width=200px style="padding:20px;"><img src="https://kubernetesacademy.online/wp-content/uploads/2022/04/BadgeGoogleCloudEN.svg" width=200px style="padding:20px;">
 
 ---
 
