@@ -35,8 +35,6 @@ In the **Resource to Download?** field, use the following URL:
 
     https://raw.githubusercontent.com/K8sAcademy/Azure-HandsOn/main/L13-AZ-06%20Web%20App%20for%20Containers%20-%20Multiple%20Containers/docker-compose.yml
 
-![image](readme_images/L13-LI-02-01.png)
-
 ---
 
 ## Optionally, deploy using the command line
@@ -61,12 +59,6 @@ In the **Command to run?** field enter this:
 
 Once created, click on the overview page and locate the Linode URL.  In a new browser tab, test both routes and notice that the server names are different.
 
-![image](readme_images/L13-LI-02-02.png)
-
 ## Cleanup
 
 In the Cloud Manager, delete the resource you just created.
-
----
-
-© Copyright AZCode, All Rights Reserved | https://kubernetesacademy.online
