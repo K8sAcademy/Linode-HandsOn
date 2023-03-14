@@ -12,7 +12,7 @@ Scroll down and locate the **Docker Options** section.
 
 In the **Command ro run?** textbox enter this command:
 
-    docker run --name hello --restart unless-stopped -p 80:8080 k8sacademy/hello-app:1.0
+    docker run --name hello --restart unless-stopped -p 80:8080 guybarrette/hello-app:1.0
 
 ## Image Options
 
